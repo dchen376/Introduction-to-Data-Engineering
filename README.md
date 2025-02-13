@@ -11,6 +11,8 @@ https://www.coursera.org/learn/introduction-to-data-engineering
 
 ![image](https://github.com/user-attachments/assets/a74eb7d1-e7bc-4259-86ec-95d02713dff4)
 
+#### Modern Data Ecosystem
+
 
 ### Responsibilities and Skillsets of a Data Engineer
 
