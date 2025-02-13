@@ -41,6 +41,10 @@ data sources
   ![image](https://github.com/user-attachments/assets/4cecdf44-c039-43fd-bef2-dfccdbb8feb4)
 
 
+#### what is data engineering
+![image](https://github.com/user-attachments/assets/23b296f7-ba0f-484b-96ba-c0a65c0b7ecd)
+
+
   
 
 
