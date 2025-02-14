@@ -94,6 +94,40 @@ softskills:
 
 #### overview of data engineering ecosystem
 
+- data
+  ![image](https://github.com/user-attachments/assets/2510bdeb-01f1-40de-a609-88db9b2bf217)
+
+![image](https://github.com/user-attachments/assets/78993ec6-1dc7-48f6-a645-684441da7ff0)
+
+
+![image](https://github.com/user-attachments/assets/9d7d4095-8fc6-4d61-adf1-342e6e36ec0d)
+
+![image](https://github.com/user-attachments/assets/a68b2b1b-6f5e-43f7-8798-75b00a5afe84)
+
+![image](https://github.com/user-attachments/assets/5c1b0248-7184-4fa8-bd65-4f86f2bb4be9)
+
+![image](https://github.com/user-attachments/assets/834763eb-8048-485b-9f52-6834db6aa8c3)
+
+![image](https://github.com/user-attachments/assets/1b93e145-949f-43bd-93b4-cb605d086aef)
+
+![image](https://github.com/user-attachments/assets/b3ada8b3-8d68-48b2-b24d-6f896dee67a6)
+
+
+#### types of data
+  ![image](https://github.com/user-attachments/assets/e063ee16-75f0-4434-ba3f-567c6ca71bc2)
+
+![image](https://github.com/user-attachments/assets/0804f57d-8ba2-4bc4-b340-0a80ef1c566a)
+
+![image](https://github.com/user-attachments/assets/b414fc9e-b11d-49da-bb93-f507442bcde6)
+
+#### Different types of file formats
+![image](https://github.com/user-attachments/assets/6e448027-0e8a-4f58-9b5e-565849cec969)
+
+![image](https://github.com/user-attachments/assets/c880a3f3-7db5-4830-9cb7-a6a0a0fdf4ed)
+
+![image](https://github.com/user-attachments/assets/b1e2c76f-ea09-4845-802a-a51095aed700)
+
+
 
 
 ### Data Repositories, Data Pipelines, and Data Integration Platforms
