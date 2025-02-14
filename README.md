@@ -41,6 +41,15 @@ data sources
   ![image](https://github.com/user-attachments/assets/4cecdf44-c039-43fd-bef2-dfccdbb8feb4)
 
 
+#### a day in the life of a data engineer
+![image](https://github.com/user-attachments/assets/a15ca1bd-30f0-4433-ae3d-98af2cbb9add)
+
+
+
+
+
+
+
 #### what is data engineering
 ![image](https://github.com/user-attachments/assets/23b296f7-ba0f-484b-96ba-c0a65c0b7ecd)
 
