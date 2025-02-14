@@ -66,6 +66,24 @@ technical skills
 
 ![image](https://github.com/user-attachments/assets/8bc715b8-8d02-4c7e-ac81-ebc7863b5f0e)
 
+Functional Skills:
+![image](https://github.com/user-attachments/assets/1d45b3e9-fac8-4fd3-b248-55773f2a00e5)
+
+![image](https://github.com/user-attachments/assets/26eb2b93-7494-4d81-b076-475a777c9dd6)
+
+![image](https://github.com/user-attachments/assets/6a603619-1211-4a74-8c32-a317790a44fb)
+
+* ETL (Extract, Transform, Load) 
+
+softskills:
+![image](https://github.com/user-attachments/assets/533c80ee-d145-46e0-9c15-4023d09bd3e8)
+
+![image](https://github.com/user-attachments/assets/2b96b089-60eb-45b8-8a7a-faacf3aa9544)
+
+
+
+
+
 
 
 
