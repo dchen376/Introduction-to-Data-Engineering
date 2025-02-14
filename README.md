@@ -46,15 +46,28 @@ data sources
 
 ![image](https://github.com/user-attachments/assets/caa49167-5df6-4903-a17d-3dc0fbad25c3)
 
-  
-
-
-  
-  
-
-
-
 ### Responsibilities and Skillsets of a Data Engineer
+
+#### responsiblities and skillets of a Data Engineer
+![image](https://github.com/user-attachments/assets/884e03fa-96fc-4c65-ac2e-b23d5a01582c)
+
+technical skills
+![image](https://github.com/user-attachments/assets/16b8bdf6-162d-4a29-99ee-a28fec15a837)
+
+![image](https://github.com/user-attachments/assets/59072767-d57a-4bfc-899a-6324c758a32d)
+
+![image](https://github.com/user-attachments/assets/e7827862-4b5f-494b-b122-2366d2a3273a)
+
+![image](https://github.com/user-attachments/assets/e99c1241-4e2a-47c8-8e8b-fa04d57d4e7c)
+
+![image](https://github.com/user-attachments/assets/22022c3c-3707-4164-a89f-99974418566b)
+
+ ![image](https://github.com/user-attachments/assets/272d934e-f8db-4a42-b9d1-7afa5c35d816)
+
+![image](https://github.com/user-attachments/assets/8bc715b8-8d02-4c7e-ac81-ebc7863b5f0e)
+
+
+
 
 ## M2 - The Data Engineering Ecosystem
 ### The Data Ecosystem and Languages for Data Professionals
