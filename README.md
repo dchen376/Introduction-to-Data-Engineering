@@ -181,6 +181,98 @@ softskills:
 Metadata is data that provides information about other data, and includes three main types: technical, process, and business metadata
 
 ### Data Repositories, Data Pipelines, and Data Integration Platforms
+
+#### overview of data repositories
+![image](https://github.com/user-attachments/assets/58eda415-246e-497a-bec7-964473d03864)
+
+- databases (relational & non-relational)
+  ![image](https://github.com/user-attachments/assets/85aa5d63-a861-4888-b839-a2d30514ed4f)
+
+- data warehouse
+  ![image](https://github.com/user-attachments/assets/a0d206e9-5439-42b5-a2bb-c6ba319325b6)
+
+- big data stores
+  ![image](https://github.com/user-attachments/assets/a36f6576-776a-4ca4-a142-8752031ec2c9)
+
+#### RDBMS
+rows
+cols : attributes
+![image](https://github.com/user-attachments/assets/42d7f121-ca1e-4f21-8b80-38666f15d237)
+
+![image](https://github.com/user-attachments/assets/a15c9d70-98f8-427e-a42d-2a42d473abb2)
+
+- use cases:  OLTP
+  ![image](https://github.com/user-attachments/assets/3860e974-bfd8-4c03-9a90-9ff795726087)
+![image](https://github.com/user-attachments/assets/2fe52e0c-534e-4359-ab5b-10ae559e0f79)
+
+- limitations of RDBMS
+  ![image](https://github.com/user-attachments/assets/256d9ae3-ff64-4bcf-9a43-49513d68cbca)
+
+#### NoSQL
+![image](https://github.com/user-attachments/assets/1557e29c-ab7f-4b8f-8c52-2611cd6d505f)
+
+- four types of NoSQL databases
+  ![image](https://github.com/user-attachments/assets/f9d0a0e9-8dd8-4acf-95a3-e015bcaf4821)
+
+1. key-value store
+   ![image](https://github.com/user-attachments/assets/58986002-6570-479a-aa3c-38e360e787e5)
+   ![image](https://github.com/user-attachments/assets/8df9b1d0-ef09-45d3-bf72-e1d6084d220b)
+   ![image](https://github.com/user-attachments/assets/662e98d9-8db9-4ad2-9948-ec00d66128eb)
+   
+2. Document-based
+   ![image](https://github.com/user-attachments/assets/4bb630e7-ef18-4f5c-92bc-dbdac720c66e)
+   ![image](https://github.com/user-attachments/assets/d7d8acd0-7dbf-4265-99cc-c662803782ac)
+   ![image](https://github.com/user-attachments/assets/5d349cbf-4298-4db3-920c-d49e59d88be2)
+
+3. Column-based
+![image](https://github.com/user-attachments/assets/18374f13-e02a-46d3-8b61-25bda05978f1)
+![image](https://github.com/user-attachments/assets/2af11ad4-470d-4a7d-9c0a-b1a7174ce889)
+![image](https://github.com/user-attachments/assets/f5414999-5c23-402e-a8fb-d15944c7e658)
+![image](https://github.com/user-attachments/assets/602f2a99-4641-41e3-bba0-226af94e812d)
+
+4. graph-based
+![image](https://github.com/user-attachments/assets/2239e1e8-eceb-4e3e-ba9d-b4fb76c678f0)
+![image](https://github.com/user-attachments/assets/c108903f-1957-4ea1-b84c-5db718b9f684)
+![image](https://github.com/user-attachments/assets/49724978-9074-40fd-8b10-ca947c90d9f7)
+![image](https://github.com/user-attachments/assets/4a0687af-4b87-4ca7-a9be-9a1b45e5a8d6)
+![image](https://github.com/user-attachments/assets/dacb6ea3-f909-4cd4-8084-8d0d78efa2d5)
+
+- advantage
+![image](https://github.com/user-attachments/assets/731ab2c9-27f0-452f-b42d-969d666d4e43)
+
+-diff
+![image](https://github.com/user-attachments/assets/46d9bc73-a784-4c01-b02a-b7e462df86e3)
+
+
+#### Data warehouses, data Marts, data Lakes
+![image](https://github.com/user-attachments/assets/5067a3e3-719e-485e-ab3e-39a01c6e98ca)
+
+- data warehouses
+  ![image](https://github.com/user-attachments/assets/3520a335-48f8-4414-ab52-9fe4db34627c)
+![image](https://github.com/user-attachments/assets/fb0189b5-188a-4102-a003-df987633776d)
+![image](https://github.com/user-attachments/assets/070dfef6-44d4-43c7-8437-a021277e5471)
+![image](https://github.com/user-attachments/assets/a6b40940-0f2c-4854-b973-6c6dd463fd91)
+
+
+- data marts
+![image](https://github.com/user-attachments/assets/723e0c2a-bf85-49f4-be77-2990ba48235b)
+![image](https://github.com/user-attachments/assets/a4d975e5-c3d9-4acd-b105-cefbe1e8466a)
+![image](https://github.com/user-attachments/assets/146fe6bb-cb81-4e85-8bff-0d9cc34e8880)
+![image](https://github.com/user-attachments/assets/f7efafc0-fce5-4644-a372-850a1a26dfe2)
+
+
+- data lakes
+  ![image](https://github.com/user-attachments/assets/5dbd1a24-dcfc-474a-9b00-73781f39d54c)
+![image](https://github.com/user-attachments/assets/2cc5e951-6aa1-4270-802d-3c6235ceb982)
+![image](https://github.com/user-attachments/assets/54397897-6578-4c73-ab67-29e7f1ad09d6)
+
+####  Data Lakehouse (data warehouse + data lakes)
+
+
+
+
+
+
 ### IBM Db2 database
 ### Big Data Platforms
 
