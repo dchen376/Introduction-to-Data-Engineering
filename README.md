@@ -127,6 +127,11 @@ softskills:
 
 ![image](https://github.com/user-attachments/assets/b1e2c76f-ea09-4845-802a-a51095aed700)
 
+#### sources of data
+
+![image](https://github.com/user-attachments/assets/4d5c12b7-cec9-4249-9a61-a51551fda142)
+![image](https://github.com/user-attachments/assets/f500530b-c08f-4d6c-9442-f08cc1fc9033)
+
 
 
 
