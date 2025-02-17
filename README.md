@@ -177,6 +177,8 @@ softskills:
   ![image](https://github.com/user-attachments/assets/d80d7f12-2468-420f-a87d-2e52917e24f0)
 
 
+#### metadata
+Metadata is data that provides information about other data, and includes three main types: technical, process, and business metadata
 
 ### Data Repositories, Data Pipelines, and Data Integration Platforms
 ### IBM Db2 database
