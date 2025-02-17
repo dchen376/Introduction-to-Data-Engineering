@@ -362,14 +362,93 @@ cols : attributes
 
 
 
-
-
-
 ## M3 - Data Engineering Lifecycle
+![image](https://github.com/user-attachments/assets/3ea659c8-aaa0-4b8d-88cd-a4f279f7c1de)
+
 ### Data Platforms, Data Stores, and Security
+
+#### Architecting the data platform
+![image](https://github.com/user-attachments/assets/7a46275b-e4cb-451d-b6e7-47e41f60ab38)
+
+1. collection layer
+  ![image](https://github.com/user-attachments/assets/b65c2c91-a381-4aab-987f-fd1ad15bf02c)
+![image](https://github.com/user-attachments/assets/2885ec69-8395-4378-a6c8-781f85025772)
+
+2. storage and integration layer
+  ![image](https://github.com/user-attachments/assets/4637fc68-07d4-436c-8cbd-42417a35f231)
+![image](https://github.com/user-attachments/assets/b2304695-1cca-431b-9bcd-3cb077413b09)
+![image](https://github.com/user-attachments/assets/9cce7fbf-b1bc-4eb6-9030-48cc009bf320)
+
+![image](https://github.com/user-attachments/assets/1990cf36-df5a-4190-b4d2-f65efefffaea)
+![image](https://github.com/user-attachments/assets/a6c1fbe2-158c-4bfc-afe2-1b5c9e7c3532)
+![image](https://github.com/user-attachments/assets/09eceeef-16fc-49bd-bb45-9e5e2f4bc2bd)
+![image](https://github.com/user-attachments/assets/981f233c-5cd9-4d06-bec0-619df4e6cdd1)
+
+3. data processing layer
+![image](https://github.com/user-attachments/assets/b83ca7a3-6ce8-4523-a05f-a27cb6a6ccb5)
+
+![image](https://github.com/user-attachments/assets/7a031768-c858-4c8d-af77-4b9d574c613f)
+![image](https://github.com/user-attachments/assets/fb38574a-1db7-40aa-9c55-f091f78f29cc)
+
+![image](https://github.com/user-attachments/assets/aa9c07fc-52a7-4b6b-9dc1-04755c1d68ed)
+
+![image](https://github.com/user-attachments/assets/f4edfde6-365f-4692-8eb0-acd1cc765944)
+
+4. analysis and user interface layer
+![image](https://github.com/user-attachments/assets/a248af90-6e6a-43f6-b130-4b2b3192b4bd)
+![image](https://github.com/user-attachments/assets/a3977f4f-9a14-4baf-8c8d-eed953df9d4b)
+
+5. pipeline layer
+   ![image](https://github.com/user-attachments/assets/e28e1a26-5f2b-4b9c-9a1e-dc1ab0cb2552)
+![image](https://github.com/user-attachments/assets/afc02630-178d-4ba0-ad65-1587c915608c)
+
+#### factors for selecting and designing data stores
+![image](https://github.com/user-attachments/assets/1e44a8b0-4e88-4745-aaa9-ac2f5ea4c69d)
+
+![image](https://github.com/user-attachments/assets/7bc8f0d6-db54-4dce-962b-dc9d070b30b5)
+
+![image](https://github.com/user-attachments/assets/18a15c7f-9321-4f9e-ae16-95079630e278)
+
+![image](https://github.com/user-attachments/assets/08d88a35-4f73-4f9e-80f9-af712b51987c)
+![image](https://github.com/user-attachments/assets/cc42ce47-fb56-471d-8702-010e81fea9f1)
+
+![image](https://github.com/user-attachments/assets/c79bb7f7-3a67-465a-ab89-59dc37004db0)
+
+![image](https://github.com/user-attachments/assets/03abbe01-5018-478e-9574-42adb2e53837)
+
+![image](https://github.com/user-attachments/assets/d9189dfd-bf6e-4762-a207-7596ad13dc43)
+
+![image](https://github.com/user-attachments/assets/818bd385-be57-41fa-bde0-bb9c54abde1d)
+
+#### security
+![image](https://github.com/user-attachments/assets/a9cca30a-e1c0-4a99-abea-964a0e5e3ba6)
+
+![image](https://github.com/user-attachments/assets/b3ef6623-9114-4461-bc6f-4bbb8e47de7a)
+![image](https://github.com/user-attachments/assets/5353ef7b-f08d-4fa2-870c-46ef64b7b586)
+
+- x4 levels
+![image](https://github.com/user-attachments/assets/2cc2a875-7cd4-4e6a-8196-d0d86b8a128c)
+
+![image](https://github.com/user-attachments/assets/2b74b894-c045-4c98-a9d9-0043adc87cff)
+
+![image](https://github.com/user-attachments/assets/a3684163-c16c-4197-ac9b-fa7117bad360)
+
+![image](https://github.com/user-attachments/assets/9765600d-b28d-4a46-85e6-a7b779e1cf6f)
+![image](https://github.com/user-attachments/assets/69e080c3-7e29-424d-a8db-01589cf28e7f)
+![image](https://github.com/user-attachments/assets/0020041b-b549-47a0-bd8d-d17b5ece7522)
+
+
 ### Data Collection and Data Wrangling
+
+
 ### Querying Data, Performance Tuning, and Troubleshooting
 ### Governance and Compliance
+
+
+
+
+
+
 
 ## M4 - Career Opportunites and Data Engineering in Action
 ### Career Opportunites and Learning Paths
