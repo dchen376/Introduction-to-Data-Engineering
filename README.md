@@ -323,6 +323,47 @@ cols : attributes
 
 ### Big Data Platforms
 
+#### Foundations of Big Data
+![image](https://github.com/user-attachments/assets/b286cde9-ab72-4fc1-b82f-6962a82b0974)
+
+- characteristics of big data
+![image](https://github.com/user-attachments/assets/73f76d50-24b6-4f5e-aaf8-8cbe3cd047f1)
+![image](https://github.com/user-attachments/assets/13da79d3-3f9c-47dc-bed1-5ab296a1383b)
+
+#### big data processing tools: Hadoop, HDFS, Hive, and Spark
+![image](https://github.com/user-attachments/assets/cee3b0fb-c585-4060-9570-0f10cd7f8906)
+
+1. Hadoop
+   ![image](https://github.com/user-attachments/assets/8a413dc7-8b09-4609-9082-9d9419041859)
+![image](https://github.com/user-attachments/assets/cd6249ce-5330-40af-8bb7-c9df96ee1340)
+![image](https://github.com/user-attachments/assets/c45e092a-3186-4491-ba7d-7076dcdabc17)
+
+2. HDFS (Hadoop Distributed File System)
+   ![image](https://github.com/user-attachments/assets/69d0e5c5-99ef-426d-8c6a-f4d21687c886)
+![image](https://github.com/user-attachments/assets/9c0a14c2-ba05-4258-9972-f491967b760d)
+![image](https://github.com/user-attachments/assets/439b18c8-68b5-4690-8c3f-a1b329f86ded)
+
+
+4. Hive
+  ![image](https://github.com/user-attachments/assets/c14971b4-447a-4b74-9bda-9d17e31d25d3)
+![image](https://github.com/user-attachments/assets/9555e7a1-a987-49c5-80cd-cbe19c3c005f)
+![image](https://github.com/user-attachments/assets/ce5f943d-dad3-4922-989f-e9a5af3b639c)
+
+
+5. Spark
+   ![image](https://github.com/user-attachments/assets/40bba4fc-a3fa-4361-849c-bac24e6d8338)
+   ![image](https://github.com/user-attachments/assets/b55c591f-fa63-4dd4-a85f-58cddb24e70f)
+![image](https://github.com/user-attachments/assets/71d6f4f5-8378-433a-90fc-73019fd3a810)
+
+
+#### viewpoints: impact of big data on data engineering
+![image](https://github.com/user-attachments/assets/cb69f7cc-32b2-42c8-bd1c-389879ef8648)
+![image](https://github.com/user-attachments/assets/3c4dee27-ea1b-4cec-ab89-e6d050fadbf4)
+
+
+
+
+
 
 ## M3 - Data Engineering Lifecycle
 ### Data Platforms, Data Stores, and Security
