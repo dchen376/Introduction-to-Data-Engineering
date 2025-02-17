@@ -268,13 +268,61 @@ cols : attributes
 
 ####  Data Lakehouse (data warehouse + data lakes)
 
+#### ETL, ELT, and Data Pepelines
+![image](https://github.com/user-attachments/assets/2ff0f417-0557-47d1-a0c9-79f9e5f4f671)
+
+1. ETL
+![image](https://github.com/user-attachments/assets/dced542b-fb5f-4f56-9fff-790f250fde43)
+- tranforming data
+![image](https://github.com/user-attachments/assets/0a39a005-e63b-4b3a-9664-8292e0d515f1)
+
+- loading data
+  ![image](https://github.com/user-attachments/assets/28b90f0e-0534-4f0d-8f5f-18addf654916)
+![image](https://github.com/user-attachments/assets/180bbc44-18fb-4d01-aaaa-afb87c6aefc1)
+![image](https://github.com/user-attachments/assets/49487e22-4e99-45b3-b0fe-747cc6f4c071)
+
+2. ELT
+![image](https://github.com/user-attachments/assets/d68bd3c3-f77b-4829-8df8-d54cf442a78d)
+   
+3. data pipelines
+   ![image](https://github.com/user-attachments/assets/68d265e7-dee2-49bd-9f21-292c3fde9b09)
+![image](https://github.com/user-attachments/assets/5a1d6c13-4aaa-41aa-b2a0-d0e5d8a2184d)
+
+#### Data Integration Platforms
+![image](https://github.com/user-attachments/assets/b2996d96-e64d-4573-a1a1-6fe6e58d24f3)
+![image](https://github.com/user-attachments/assets/854ac585-98cc-49c0-83cc-7e4e51a5e18e)
+![image](https://github.com/user-attachments/assets/8caad98a-e524-48b8-ae4e-cdb6b9fed348)
+![image](https://github.com/user-attachments/assets/dafbe927-4be7-472a-9cf0-d227b662fafc)
+
+![image](https://github.com/user-attachments/assets/75b0fe87-4384-4267-a5e3-ca1caf289359)
+
+![image](https://github.com/user-attachments/assets/f7e601f5-9ca4-4568-b236-f38912477c94)
+![image](https://github.com/user-attachments/assets/b9df31e1-16f2-45ef-a92d-de8cf5bbad10)
+![image](https://github.com/user-attachments/assets/11973be8-7000-49a6-b895-5337a4e6d1b1)
+![image](https://github.com/user-attachments/assets/5badeb79-0490-4dac-bc8a-ef4770da7d4f)
+
+![image](https://github.com/user-attachments/assets/124a9818-c911-402a-aa2f-4d515caac632)
+
+
+#### viewpoints: tools, datbabases, data repositories of choice
+![image](https://github.com/user-attachments/assets/537d0ff3-2460-444e-9da5-827c3a2f2880)
+![image](https://github.com/user-attachments/assets/05e74f33-cc4b-4fbd-bd95-a8551f3e5857)
+
+![image](https://github.com/user-attachments/assets/f3a9cb4e-cb71-4ad2-9f72-d1ba7baefa56)
+
+![image](https://github.com/user-attachments/assets/cacc6bc7-69b0-4dec-a6e7-16f68e8e7e90)
+
+![image](https://github.com/user-attachments/assets/2f9b8e5a-5096-4a70-aeba-2448982153b9)
+
+![image](https://github.com/user-attachments/assets/b9249dbd-4e43-4a59-87ef-00c78f090a49)
 
 
 
+### IBM Db2 database 
+(relational database)
 
-
-### IBM Db2 database
 ### Big Data Platforms
+
 
 ## M3 - Data Engineering Lifecycle
 ### Data Platforms, Data Stores, and Security
