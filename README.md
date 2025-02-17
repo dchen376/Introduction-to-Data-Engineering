@@ -132,6 +132,29 @@ softskills:
 ![image](https://github.com/user-attachments/assets/4d5c12b7-cec9-4249-9a61-a51551fda142)
 ![image](https://github.com/user-attachments/assets/f500530b-c08f-4d6c-9442-f08cc1fc9033)
 
+- flat files
+![image](https://github.com/user-attachments/assets/5153871c-8144-49a3-a7ad-98694a5ae188)
+
+![image](https://github.com/user-attachments/assets/fc5a1afd-6112-40f8-909a-dfdbf68913d3)
+
+- xml files
+  ![image](https://github.com/user-attachments/assets/6cec8be6-0348-4ad2-b059-2527ee714753)
+
+- data streams and feeds
+
+![image](https://github.com/user-attachments/assets/67b61d51-af8e-45fb-8c18-c688e32e81b0)
+
+![image](https://github.com/user-attachments/assets/9a6cec84-8d9a-4f95-854c-aaed157107ed)
+
+![image](https://github.com/user-attachments/assets/f0fd0555-19a0-4d41-b741-77198efda39d)
+
+![image](https://github.com/user-attachments/assets/fe89b073-5a8e-4d8e-ad65-83abe557e64e)
+
+#### languages for data professionals
+![image](https://github.com/user-attachments/assets/26c3e7d6-267c-4340-a5eb-9b45a45592d0)
+
+![image](https://github.com/user-attachments/assets/a8190023-2259-4380-94c0-8fe74f0149dc)
+
 
 
 
