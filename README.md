@@ -438,10 +438,58 @@ cols : attributes
 ![image](https://github.com/user-attachments/assets/0020041b-b549-47a0-bd8d-d17b5ece7522)
 
 
-
-
-
 ### Data Collection and Data Wrangling
+#### how to gather and import data
+![image](https://github.com/user-attachments/assets/867dc063-f813-41ee-beba-e59691337189)
+![image](https://github.com/user-attachments/assets/8476de20-b08a-468d-a29a-6f3776c71632)
+![image](https://github.com/user-attachments/assets/ce8a59f9-2505-4188-bd9f-b477529152fd)
+![image](https://github.com/user-attachments/assets/55a8f29f-d9e3-46f6-91bf-21426a356741)
+
+![image](https://github.com/user-attachments/assets/bf56c636-3a9d-41c4-80ba-2126b44556b4)
+![image](https://github.com/user-attachments/assets/20616984-8256-4434-bb07-706672ab51b4)
+
+![image](https://github.com/user-attachments/assets/c46dba4a-6c7c-485a-a675-28bd59cd2b25)
+
+![image](https://github.com/user-attachments/assets/825fd2e5-693f-4c3e-9251-beace1c89b47)
+
+#### data wrangling 
+![image](https://github.com/user-attachments/assets/ad0c9823-930d-4a70-985d-d0b605465f39)
+
+- join
+  ![image](https://github.com/user-attachments/assets/b79d2961-b5b7-42be-ba00-67ec23faf1da)
+  
+- union
+  ![image](https://github.com/user-attachments/assets/cf3fdd61-f4ba-42af-af09-8ee238045ce4)
+
+- normalization
+![image](https://github.com/user-attachments/assets/2579063d-6f12-481c-8e4c-af75a2133e01)
+
+- denormalization
+  ![image](https://github.com/user-attachments/assets/33b256d2-7df7-4fe5-84a7-90bfbe89c9e4)
+
+- cleaning data
+  ![image](https://github.com/user-attachments/assets/bdc9fc3b-d666-4b93-9a47-5500a1dee8c0)
+
+
+#### tools for data wrangling
+![image](https://github.com/user-attachments/assets/3d79ec16-caad-46ab-bf91-3911c0e87a6a)
+
+![image](https://github.com/user-attachments/assets/90884295-7721-4c95-b3a6-197650fa242d)
+![image](https://github.com/user-attachments/assets/4ff907cc-d2cc-4a9c-8efe-7126c73ca971)
+![image](https://github.com/user-attachments/assets/1745adf2-ee6f-4ee4-8c01-c112b03e4e29)
+![image](https://github.com/user-attachments/assets/eedf5730-7444-4397-8a32-dbfac2053c48)
+![image](https://github.com/user-attachments/assets/96c7b71b-4a90-44f9-939d-8d1eb663fe5e)
+
+![image](https://github.com/user-attachments/assets/68b68074-ce3c-46bd-9390-280b2a44ec50)
+![image](https://github.com/user-attachments/assets/6e48b520-753d-4bcf-b4b5-8e3f622f6c95)
+![image](https://github.com/user-attachments/assets/2774bc3c-f2ca-4909-b4e8-ecc602102be0)
+
+![image](https://github.com/user-attachments/assets/1740acbb-46a7-4d13-9dbc-a5fc6946ca77)
+![image](https://github.com/user-attachments/assets/9e22146b-5fc6-4fb2-aac2-e5691fe5b270)
+
+
+
+
 
 
 ### Querying Data, Performance Tuning, and Troubleshooting
