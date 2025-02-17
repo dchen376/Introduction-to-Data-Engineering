@@ -155,6 +155,26 @@ softskills:
 
 ![image](https://github.com/user-attachments/assets/a8190023-2259-4380-94c0-8fe74f0149dc)
 
+- Python
+![image](https://github.com/user-attachments/assets/d826f1b2-dae8-4f9b-8950-efe0f2a3422f)
+
+- R
+  ![image](https://github.com/user-attachments/assets/83b08249-1a1a-4731-bd6c-f112afafc5d8)
+
+![image](https://github.com/user-attachments/assets/b77e28fd-570f-4e69-b91b-4f67f92567f2)
+
+![image](https://github.com/user-attachments/assets/b538d9a0-ac53-4c52-9173-4c671463e661)
+
+- Java
+![image](https://github.com/user-attachments/assets/1bde5030-79a2-472d-beb0-84f2aef9980b)
+
+- Unix / Linux Shell
+  ![image](https://github.com/user-attachments/assets/88ba33e9-f051-421f-9c78-c21be3f80ada)
+
+![image](https://github.com/user-attachments/assets/df26d5cb-e4fe-450f-9e38-0d7a3670ad46)
+
+- powerShell
+  ![image](https://github.com/user-attachments/assets/d80d7f12-2468-420f-a87d-2e52917e24f0)
 
 
 
