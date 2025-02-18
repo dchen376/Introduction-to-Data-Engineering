@@ -488,11 +488,52 @@ cols : attributes
 ![image](https://github.com/user-attachments/assets/9e22146b-5fc6-4fb2-aac2-e5691fe5b270)
 
 
-
-
-
-
 ### Querying Data, Performance Tuning, and Troubleshooting
+
+#### querying and analyzing data
+![image](https://github.com/user-attachments/assets/88896962-9de0-4b80-b15c-d9d14c967682)
+
+![image](https://github.com/user-attachments/assets/a732da5a-4717-4c51-8b13-124153e7db85)
+![image](https://github.com/user-attachments/assets/8711ca83-a005-4607-8b07-996592ee23db)
+
+![image](https://github.com/user-attachments/assets/5a505077-851d-45fb-9e81-f4cab6d65c77)
+![image](https://github.com/user-attachments/assets/c65c8410-d0e8-49cd-9e00-6d87319d870f)
+
+![image](https://github.com/user-attachments/assets/78a6744a-18a4-4d3f-86c7-b1453f4a044d)
+
+![image](https://github.com/user-attachments/assets/f12ae04a-7209-4b38-9ddf-403816eaf6d2)
+
+![image](https://github.com/user-attachments/assets/45565e23-db3a-4139-83cd-c1d8ec3c8448)
+
+![image](https://github.com/user-attachments/assets/ef7f1504-444b-4e79-869e-22a7fde9e882)
+
+![image](https://github.com/user-attachments/assets/d512f9c6-0cfe-46b6-8585-438dc8bfe38b)
+
+#### performing Tuning and Troubleshooting
+![image](https://github.com/user-attachments/assets/1dbff69c-4c0c-4459-a24f-c254ab4a2902)
+
+![image](https://github.com/user-attachments/assets/ebd0e1f9-9cea-4ed8-a4d4-3f49fe44980e)
+
+![image](https://github.com/user-attachments/assets/436a25de-b662-4b27-8961-b46dfe7a1b28)
+![image](https://github.com/user-attachments/assets/4d2bac40-f106-4464-b5ec-9e54f5e10832)
+
+- troubleshooting
+  ![image](https://github.com/user-attachments/assets/f2a95394-7857-4f1b-87d3-b09ab38dfa01)
+![image](https://github.com/user-attachments/assets/8550eec6-8e1e-413f-a197-804caa6fbbc5)
+
+- performance metrics
+  ![image](https://github.com/user-attachments/assets/ea1ac143-9b54-4f3d-981a-3adc6f25a1ac)
+-optimization
+![image](https://github.com/user-attachments/assets/2e173c6e-dd1e-41cd-8da8-2c39b347b7aa)
+![image](https://github.com/user-attachments/assets/06b3c776-ce2c-4282-8ed9-1ce366d4d22f)
+
+- monitoring
+  ![image](https://github.com/user-attachments/assets/2f156879-0ebd-41be-b738-6868db0c90f2)
+
+- maintenance
+![image](https://github.com/user-attachments/assets/3a61157c-390d-43e6-88c1-8b8bb0d4b70b)
+
+
 ### Governance and Compliance
 
 
