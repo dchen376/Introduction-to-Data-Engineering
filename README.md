@@ -583,4 +583,93 @@ cols : attributes
 
 ## M4 - Career Opportunites and Data Engineering in Action
 ### Career Opportunites and Learning Paths
+
+#### career opportunities in data engineering
+![image](https://github.com/user-attachments/assets/c9bdcb51-501d-4f1c-a130-fc169446e53f)
+
+![image](https://github.com/user-attachments/assets/f29340ce-5ff2-431f-afe1-4927189cc5b8)
+
+![image](https://github.com/user-attachments/assets/30e5baeb-5864-439a-a5a2-3208eea28797)
+
+![image](https://github.com/user-attachments/assets/8f406855-8512-4ec4-b704-34ed28b31fc6)
+
+#### Data Warehousing Specialist
+![image](https://github.com/user-attachments/assets/565d42a9-3409-423b-8e71-eb8505f5413c)
+![image](https://github.com/user-attachments/assets/316f172a-256e-4cac-ab57-2e10368580a1)
+![image](https://github.com/user-attachments/assets/20d35663-3b24-46b3-bf37-689517e2a81e)
+
+#### Data Manager
+![image](https://github.com/user-attachments/assets/f066e02e-1d6c-4221-b461-1b1d649870a9)
+
+![image](https://github.com/user-attachments/assets/0c1e29a6-67b1-41a0-a6b1-7d82d1d0dc00)
+
+![image](https://github.com/user-attachments/assets/c9e4bfa3-0721-47a4-b327-233dd9bdab4a)
+
+![image](https://github.com/user-attachments/assets/54d42548-ed4a-4348-b637-042b62fc10b2)
+
+
+#### viewpoints: get into data engineering
+![image](https://github.com/user-attachments/assets/4f003324-ad09-4f09-82d7-56d52b42d750)
+![image](https://github.com/user-attachments/assets/c07b37f2-71a1-49d3-91a2-a9b64a7dd991)
+
+![image](https://github.com/user-attachments/assets/9637274a-3ee0-4eaa-bf96-10de5344cadd)
+![image](https://github.com/user-attachments/assets/fd598462-9f50-4cb3-8875-a4ea7c98a199)
+
+![image](https://github.com/user-attachments/assets/274faa23-fcf8-4cf4-ae7d-7aa304cc8754)
+![image](https://github.com/user-attachments/assets/eff938e8-7356-41ee-b67c-07398d99d96c)
+![image](https://github.com/user-attachments/assets/e8e3b6e8-963f-4a01-a488-c137a7398ff8)
+
+![image](https://github.com/user-attachments/assets/e665b96c-e32d-4fe6-9c81-2a4ba7935fa0)
+![image](https://github.com/user-attachments/assets/53ebf381-1315-4ec0-b5c0-4629f649158c)
+
+#### data engineering learning path
+![image](https://github.com/user-attachments/assets/4e4f1c07-6509-4ff1-9203-7d80b5d4cb31)
+![image](https://github.com/user-attachments/assets/ad55f14a-7c06-4ec1-84fd-50d0b303d2c8)
+
+![image](https://github.com/user-attachments/assets/800a245b-a085-4338-8cd0-1bfccaf2be9f)
+
+![image](https://github.com/user-attachments/assets/1cc14c83-6658-4902-b062-34608ec3e995)
+
+![image](https://github.com/user-attachments/assets/d3e78241-a0c9-4c86-b4df-327eaae40f68)
+
+#### viewpoints: what do employers look in a data engineer
+![image](https://github.com/user-attachments/assets/cc602d92-d060-430e-a25f-ec4b253552e0)
+![image](https://github.com/user-attachments/assets/d0d78de7-d519-43e4-acb9-b32aa0b9984b)
+
+![image](https://github.com/user-attachments/assets/0e922dcd-cba6-4d66-bd17-29b7809e39cf)
+
+![image](https://github.com/user-attachments/assets/a0b5b735-9854-4592-a519-86d7ea05e89b)
+![image](https://github.com/user-attachments/assets/a8fb9f75-a106-4fbe-b483-8507f1b6e67c)
+
+![image](https://github.com/user-attachments/assets/2fb7567f-2328-4e4d-9898-926d493520d9)
+![image](https://github.com/user-attachments/assets/62a6a637-6e97-475f-8d5d-e0d6e0dd8ae6)
+
+![image](https://github.com/user-attachments/assets/f4eb97f1-ca10-43d5-9ad3-618fe114e212)
+
+![image](https://github.com/user-attachments/assets/4be380ac-aa1d-4553-b398-02d80efcc620)
+![image](https://github.com/user-attachments/assets/c118098b-3645-44e6-9ecf-5b6b9604f66c)
+
+#### viewpoints: the many paths to data engineering
+
+#### viewpoints: advice to aspiring data engineers
+![image](https://github.com/user-attachments/assets/45c8fd7c-71ce-4eeb-8e79-c36b9aacae0b)
+![image](https://github.com/user-attachments/assets/711c31bd-d06a-45d6-9937-5ee05affdc0d)
+
+![image](https://github.com/user-attachments/assets/6522902f-b720-4da8-af6c-1273def6d431)
+
+![image](https://github.com/user-attachments/assets/06b4bdd4-cd42-496e-8dba-3dc4f8a92488)
+
+![image](https://github.com/user-attachments/assets/45154f64-7df6-468d-8cfd-7e752ec2b2a4)
+
+![image](https://github.com/user-attachments/assets/c648d955-1558-46b3-bfb5-4dc3dd21ede2)
+![image](https://github.com/user-attachments/assets/a37245c4-4c8b-46f6-b411-e9935d9ca0c4)
+
+
+
+
+
+
+
+
+
 ### Final Assignment
