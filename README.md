@@ -535,7 +535,37 @@ cols : attributes
 
 
 ### Governance and Compliance
+![image](https://github.com/user-attachments/assets/15d74979-5cdc-4aa7-8237-1bf07e5b6583)
 
+![image](https://github.com/user-attachments/assets/568417c0-322e-405f-aa9e-2dea05b4d40c)
+
+![image](https://github.com/user-attachments/assets/7e379cbd-6861-44f3-b32f-eb51c715abe5)
+
+- compliance
+  ![image](https://github.com/user-attachments/assets/4f7e462b-545b-43f9-a3ea-20239cab796a)
+
+- data lifecycle
+  ![image](https://github.com/user-attachments/assets/a0c88290-ae89-47d7-a830-828b51aacfc8)
+![image](https://github.com/user-attachments/assets/a0c128a8-d3ea-4109-840a-39ae6cfac522)
+![image](https://github.com/user-attachments/assets/389f2442-0e68-40ee-9f81-6e48e89f64b2)
+![image](https://github.com/user-attachments/assets/aedba844-9eb7-433c-84b1-2d2c962a67a2)
+![image](https://github.com/user-attachments/assets/63012b7b-3d38-47a0-898f-78438177fb62)
+
+
+- technology
+  ![image](https://github.com/user-attachments/assets/7e4853a8-c68f-4cb3-bb5a-5ed2b8ddaf70)
+![image](https://github.com/user-attachments/assets/bb13788e-b346-40ed-9b35-8de2d0daffbe)
+
+![image](https://github.com/user-attachments/assets/ebb49f7d-b879-482b-813c-1e8a5d59e6ca)
+![image](https://github.com/user-attachments/assets/ba86fb62-9c65-439c-b10b-7c5671902377)
+![image](https://github.com/user-attachments/assets/5c401fb9-48b8-4ea6-8bc7-5fc61ba684b5)
+
+![image](https://github.com/user-attachments/assets/93573597-59d0-4f93-8008-e367a1ec41a0)
+
+![image](https://github.com/user-attachments/assets/fca5ab90-4869-4e7a-b348-4101c77cbbc3)
+![image](https://github.com/user-attachments/assets/825bf247-9322-4b21-ad33-f1e7ea8a23be)
+
+![image](https://github.com/user-attachments/assets/9acd6f9a-18ad-47e8-bcd6-e57824491ccb)
 
 
 
