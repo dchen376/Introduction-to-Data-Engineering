@@ -568,7 +568,16 @@ cols : attributes
 ![image](https://github.com/user-attachments/assets/9acd6f9a-18ad-47e8-bcd6-e57824491ccb)
 
 
+#### DataOps Methodology
 
+-  DataOps aims to create predictable delivery and change management of data, data models, and related artifacts. DataOps uses technology to automate data delivery with the appropriate levels of security, quality, and metadata to improve the use and value of data in a dynamic environment.
+-  The purpose of the DataOps Methodology is to enable an organization to utilize a repeatable process to build and deploy analytics and data pipelines.
+
+![image](https://github.com/user-attachments/assets/244f34cf-c149-4841-b74f-36dd43b55697)
+
+![image](https://github.com/user-attachments/assets/97aa6055-da1c-407e-a48d-079c791fa47e)
+
+- DataOps Engineers are technical professionals that focus on the development and deployment lifecycle rather than the product itself.
 
 
 
